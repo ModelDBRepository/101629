@@ -32,6 +32,4 @@ After you start the simulation you can press on the figure buttons, for example,
 
 Added the value for the I-h reversal potential (ehd_hd = -30), which was missed from the original hoc file used to generate Fig.9. Minor adjustements of the current injections were needed to obtain the same patterns. Apr-14-2008, M.Migliore
 
----
-
-2025-05-30: Standardized to Markdown
+Standardized to Markdown. May-27-2025
